@@ -1,0 +1,5 @@
+Codeforces: https://codeforces.com/
+DMOJ: https://dmoj.ca/
+POJ: http://poj.org/
+SPOJ: http://spoj.com/
+UVa: https://uva.onlinejudge.org/
